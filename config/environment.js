@@ -3,9 +3,13 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'skeleton-app',
+    podModulePrefix: 'skeleton-app/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
+    emblemOptions: {
+        blueprints: false
+    },
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
