@@ -1,7 +1,13 @@
 # Skeleton-app
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a ready-made Ember CLI skeleton that bakes in libraries I don't want to have to install
+every time I start a new app.
+
+The following are included:
+* CoffeeScript (via [ember-cli-coffeescript](http://github.com/kimroen/ember-cli-coffeescript))
+* Emblem (via [ember-cli-emblem](http://github.com/Vestorly/ember-cli-emblem))
+* Stylus (via [ember-cli-stylus](http://github.com/drewcovi/ember-cli-stylus))
+* Bootstrap 3
 
 ## Prerequisites
 
